@@ -1,0 +1,10 @@
+# original PNG sources (replaced by .webp)
+/coin.png
+/tg.png
+/hero-bg.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
